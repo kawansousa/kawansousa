@@ -1,4 +1,4 @@
-# Kawan Sousa
+# 👋 Olá, eu sou Kawan Sousa!
 
 <div align="center">
   
@@ -7,7 +7,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=500&lines=Node.js+%7C+React+%7C+TypeScript;Sistemas+ERP+%7C+APIs+REST;Clean+Code+%7C+Arquitetura)
 
 </div>
-
 <br>
 
 Desenvolvedor Web com **3+ anos de experiência**. Especializado em **sistemas ERP**, **APIs REST** e **arquitetura de software**. Trabalho com **Node.js** e **React**, sempre buscando escrever código limpo e entregar soluções que resolvem problemas reais.
@@ -15,59 +14,69 @@ Desenvolvedor Web com **3+ anos de experiência**. Especializado em **sistemas E
 🎓 Graduando em **Engenharia de Software** e **Sistemas de Informação**  
 📍 Brasil  
 💼 Focado em **qualidade de código** e **arquitetura escalável**
+<br/>
 
-<br>
+### Conatato
+
+<div >
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/SEU_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  
+  <br>
+
+</div>
+
+---
 
 ## Tech Stack
 
+<br>
 <div align="center">
-
 ### Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,javascript" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
 ### Database & Cache
+
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,prisma" />
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux,postman" />
-<br>
 
-## 📊 Estatísticas
+<img src="https://skillicons.dev/icons?i=docker,git" />
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kawansousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawansousa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br clear="both" />
+</div>
 
 <br>
 
-<br>
+---
 
-## Experiência
+## 📈 Gráfico de Atividade
+
+<div align="center">
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FF6B6B)
+
+</div>
+
+---
+
+## 💼 Experiência Profissional
 
 ```typescript
 const kawanSousa = {
   role: "Desenvolvedor Full Stack",
   experience: "3+ anos",
   location: "Brasil 🇧🇷",
-  education: ["Engenharia de Software", "Sistemas de Informação"],
 
   specialties: ["Sistemas ERP", "APIs REST", "Arquitetura de Software"],
 
@@ -84,40 +93,26 @@ const kawanSousa = {
 };
 ```
 
-<br>
-
-## Objetivos 2025
-
-🚀 Contribuir para mais projetos open source  
-📚 Aprofundar conhecimentos em **arquitetura de microsserviços**  
-☁️ Certificação AWS Solutions Architect  
-🎓 Compartilhar conhecimento através de artigos técnicos  
-🌟 Alcançar 1000 contribuições no GitHub
+---
 
 <br>
-
-## Contato
+<h3 align="center">🌟 Projetos em Destaque</h3>
 
 <div align="center">
-  
-  <a href="https://linkedin.com/in/kawan-sousa-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://github.com/kawansousa/erp-system">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kawansousa&repo=erp-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
   </a>
-  <a href="https://github.com/kawansousa">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/kawansousa/portfolio">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kawansousa&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
   </a>
-  <a href="mailto:kawansousa.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  
-  <br><br>
-  
-  ![](https://komarev.com/ghpvc/?username=kawansousa&color=6366f1&style=flat-square)
-
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=kawansousa&color=6366F1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" width="100%"/>
+</div>
+
 </div>
