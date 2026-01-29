@@ -39,37 +39,23 @@ Desenvolvedor Web com **3+ anos de experiência**. Especializado em **sistemas E
 
 <br>
 <div align="center">
+<img src="https://skillicons.dev/icons?i=typescript,javascript," />
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,javascript" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-
-### Database & Cache
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,prisma" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git" />
-
-</div>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mongodb,mysql,redis,docker,react,nextjs,tailwind,html,css,scss" />
 <br>
 
 ---
 
-## 📈 Gráfico de Atividade
+## Atividade
+
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawansousa&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawansousa&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawansousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawansousa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawansousa&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kawansousa&theme=tokyonight&hide_border=true"/>
 </div>
 <br>
 
