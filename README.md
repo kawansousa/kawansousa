@@ -56,21 +56,6 @@ Desenvolvedor Web com 3+ anos de experiência, natural do Brasil. Especializado 
 
 ---
 
-### 📊 Estatísticas
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kawansousa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kawansousa&show_icons=true&theme=default&hide_border=true"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kawansousa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawansousa&layout=compact&theme=default&hide_border=true"/>
-  </picture>
-</div>
-
----
-
 ### 🎯 Foco
 
 - Sistemas ERP (vendas, estoque, financeiro, comissões)
