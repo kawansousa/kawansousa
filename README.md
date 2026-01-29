@@ -1,167 +1,70 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header"/>
-
-<div align="center">
-
 # Kawan
 
-**Desenvolvedor Web Full Stack | Foco em Backend**
+**Desenvolvedor Web Full Stack** · Foco em Backend
 
-<p>
-  <a href="https://linkedin.com/in/kawan">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/kawan">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-</div>
-
----
+<br>
 
 ## Sobre
 
-Desenvolvedor Web com **3+ anos de experiência** construindo sistemas robustos e escaláveis. Especializado em **sistemas ERP**, **APIs REST** e **soluções de negócio**.
+Desenvolvedor com **3+ anos de experiência** construindo sistemas robustos e escaláveis.
 
-Meu foco está em escrever código limpo, aplicar boas práticas de arquitetura e entregar soluções que resolvem problemas reais de empresas.
+Especializado em **sistemas ERP**, **APIs REST** e **arquitetura de software**.
 
----
+<br>
 
-## Stack
+## Tech
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-      <br>NestJS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastify" width="48" height="48" alt="Fastify" />
-      <br>Fastify
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-      <br>Jest
-    </td>
-  </tr>
-</table>
+**Linguagens**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-## Experiência
+<br>
 
-```
-💻 Linguagens        → JavaScript, TypeScript, SQL
-🔙 Backend           → Node.js, NestJS, Fastify, Express
-🎨 Frontend          → React, Next.js, Tailwind CSS
-🗃️ Banco de Dados    → MongoDB, PostgreSQL, MySQL, Prisma
-🛠️ Ferramentas       → Git, Docker, Swagger, VS Code
-🧪 Testes            → Jest, Vitest
-�️ Arquitetura       → Clean Architecture, SOLID, APIs REST
-```
+**Backend**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 
-## Foco Profissional
+<br>
 
-| Área | Descrição |
-|------|-----------|
-| **Sistemas ERP** | Vendas, estoque, financeiro, comissões, relatórios gerenciais |
-| **APIs REST** | Design, documentação com Swagger, autenticação JWT |
-| **Regras de Negócio** | Fluxo de caixa, DRE, controle de estoque, multi-loja |
-| **Relatórios** | Geração de PDFs com Puppeteer, dashboards, exportação Excel |
-| **Arquitetura** | Clean Architecture, separação de camadas, código manutenível |
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## Estatísticas
+<br>
 
-<div align="center">
+**Database**
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</div>
+<br>
 
----
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+<br>
+
+## Foco
+
+- Sistemas ERP (vendas, estoque, financeiro)
+- APIs REST com documentação
+- Clean Architecture & SOLID
+- Relatórios e dashboards
+
+<br>
 
 ## Contato
 
-Aberto para novos projetos, oportunidades e colaborações.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawan)
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawan)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
