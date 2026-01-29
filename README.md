@@ -39,8 +39,8 @@ Desenvolvedor Web com **3+ anos de experiência**. Especializado em **sistemas E
 
 <br>
 <div align="center">
-### Backend
 
+###  Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,javascript" />
 
 ### Frontend
