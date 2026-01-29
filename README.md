@@ -40,7 +40,8 @@ Desenvolvedor Web com **3+ anos de experiência**. Especializado em **sistemas E
 <br>
 <div align="center">
 
-###  Backend
+### Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript,javascript" />
 
 ### Frontend
@@ -64,11 +65,13 @@ Desenvolvedor Web com **3+ anos de experiência**. Especializado em **sistemas E
 ## 📈 Gráfico de Atividade
 
 <div align="center">
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FF6B6B)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawansousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawansousa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
 </div>
-
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawansousa&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+</div>
+<br>
 
 ## 💼 Experiência Profissional
 
