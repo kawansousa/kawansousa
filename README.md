@@ -1,13 +1,13 @@
-<img align="right" height="150" src="https://github.com/kawan.png" alt="Avatar"/>
+<img align="right" height="150" src="https://github.com/kawansousa.png" alt="Avatar"/>
 
-# Kawan
+# Kawan Sousa
 
 **Desenvolvedor Full Stack**
 
 Desenvolvedor Web com 3+ anos de experiência, natural do Brasil. Especializado em sistemas ERP, APIs REST e arquitetura de software. Trabalho com Node.js no backend e React no frontend, sempre buscando escrever código limpo e entregar soluções que resolvem problemas reais de negócio.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://kawan.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawansousa)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://kawansousa.dev)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
 
 <br clear="both"/>
@@ -59,8 +59,14 @@ Desenvolvedor Web com 3+ anos de experiência, natural do Brasil. Especializado 
 ### 📊 Estatísticas
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kawansousa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kawansousa&show_icons=true&theme=default&hide_border=true"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kawansousa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawansousa&layout=compact&theme=default&hide_border=true"/>
+  </picture>
 </div>
 
 ---
