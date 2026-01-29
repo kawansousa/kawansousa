@@ -81,18 +81,6 @@ const kawanSousa = {
 ---
 
 <br>
-<h3 align="center">🌟 Projetos em Destaque</h3>
-
-<div align="center">
-  <a href="https://github.com/kawansousa/erp-system">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kawansousa&repo=erp-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-  </a>
-  <a href="https://github.com/kawansousa/portfolio">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kawansousa&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kawansousa&color=6366F1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
