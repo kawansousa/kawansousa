@@ -33,12 +33,6 @@ Desenvolvedor Web com **3+ anos de experiência**. Especializado em **sistemas E
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux,postman" />
-
-### IDE & Design
-<img src="https://skillicons.dev/icons?i=vscode,figma,notion" />
-
-</div>
-
 <br>
 
 ## 📊 Estatísticas
